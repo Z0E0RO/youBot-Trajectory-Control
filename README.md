@@ -17,5 +17,5 @@ It integrates **trajectory planning, odometry, and feedback control** for the KU
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/youBot-Trajectory-Control.git
+   git clone https://github.com/Z0E0RO/youBot-Trajectory-Control.git
    cd youBot-Trajectory-Control
